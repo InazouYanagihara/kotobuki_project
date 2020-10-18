@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-kotobukiproject-dev-141304-authRole",
+      "UnauthRoleArn": "arn:aws:iam::110541313179:role/amplify-kotobukiproject-dev-141304-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::110541313179:role/amplify-kotobukiproject-dev-141304-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-kotobukiproject-dev-141304-deployment",
+      "UnauthRoleName": "amplify-kotobukiproject-dev-141304-unauthRole",
+      "StackName": "amplify-kotobukiproject-dev-141304",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:110541313179:stack/amplify-kotobukiproject-dev-141304/9b442a20-1100-11eb-ab5e-0a6e476ede30",
+      "AmplifyAppId": "d73fwwbj0mett"
+    },
+    "categories": {
+      "auth": {
+        "kotobukiproject115a397e": {}
+      }
+    }
+  }
+}
